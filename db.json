@@ -1,0 +1,35 @@
+{
+	"dashboard": [
+		{
+			"count": 8,
+			"columns": 6,
+			"AllowResizing": true,
+			"component": {
+				"ComponentId": 2,
+				"ComponentType": "Chart",
+				"ComponentName": "MyChart",
+				"ComponentTitle": "my first component",
+				"PanelRow": 0,
+				"PanelColumn": 2,
+				"PanelSizeX": 4,
+				"PanelSizeY": 2
+			},
+			"spacing": {
+				"SpacingValue1": 10,
+				"SpacingValue2": 10
+			},
+			"dataset": {
+				"primaryXAxis": {
+					"valueType": "Category"
+				},
+				"tooltip": {
+					"enable": true
+				},
+				"legendSettings": {
+					"visible": true,
+					"position": "top"
+				}
+			}
+		}
+	]
+}
