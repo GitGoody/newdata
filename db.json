@@ -14,10 +14,10 @@
 					"ComponentType": "Chart",
 					"ComponentName": "MyChart",
 					"ComponentTitle": "my second chart",
-					"PanelRow": 2,
+					"PanelRow": 0,
 					"PanelColumn": 0,
 					"PanelSizeX": 3,
-					"PanelSizeY": 3,
+					"PanelSizeY": 2,
 					"dataset": {
 						"primaryXAxis": {
 							"valueType": "Category"
@@ -36,9 +36,9 @@
 					"ComponentType": "Chart",
 					"ComponentName": "MyChart",
 					"ComponentTitle": "my first component",
-					"PanelRow": 0,
+					"PanelRow": 2,
 					"PanelColumn": 0,
-					"PanelSizeX": 2,
+					"PanelSizeX": 4,
 					"PanelSizeY": 2,
 					"dataset": {
 						"primaryXAxis": {
