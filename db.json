@@ -16,8 +16,8 @@
 					"ComponentTitle": "my second chart",
 					"PanelRow": 2,
 					"PanelColumn": 0,
-					"PanelSizeX": 4,
-					"PanelSizeY": 2,
+					"PanelSizeX": 3,
+					"PanelSizeY": 3,
 					"dataset": {
 						"primaryXAxis": {
 							"valueType": "Category"
@@ -38,7 +38,7 @@
 					"ComponentTitle": "my first component",
 					"PanelRow": 0,
 					"PanelColumn": 0,
-					"PanelSizeX": 4,
+					"PanelSizeX": 2,
 					"PanelSizeY": 2,
 					"dataset": {
 						"primaryXAxis": {
