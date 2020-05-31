@@ -9,32 +9,10 @@
 				"SpacingValue2": 10
 			},
 			"components": [
-				{
-					"ComponentId": 3,
-					"ComponentType": "Chart",
-					"ComponentName": "MyChart",
-					"ComponentTitle": "my second chart",
-					"PanelRow": 0,
-					"PanelColumn": 0,
-					"PanelSizeX": 4,
-					"PanelSizeY": 2,
-					"dataset": {
-						"primaryXAxis": {
-							"valueType": "Category"
-						},
-						"tooltip": {
-							"enable": true
-						},
-						"legendSettings": {
-							"visible": true,
-							"position": "top"
-						}
-					}
-				},
-				          {
+								          {
 					      "ComponentId": "2",
 					      "ComponentName": "PieChart",
-					      "row": 2,
+					      "row": 0,
 					      "col": 0,
 					      "sizex": 2,
 					      "sizey": 2,
@@ -49,7 +27,30 @@
 						   ]
 						}
 
-					  }
+					  },
+				{
+					"ComponentId": 3,
+					"ComponentType": "Chart",
+					"ComponentName": "MyChart",
+					"ComponentTitle": "my second chart",
+					"PanelRow": 0,
+					"PanelColumn": 2,
+					"PanelSizeX": 4,
+					"PanelSizeY": 2,
+					"dataset": {
+						"primaryXAxis": {
+							"valueType": "Category"
+						},
+						"tooltip": {
+							"enable": true
+						},
+						"legendSettings": {
+							"visible": true,
+							"position": "top"
+						}
+					}
+				}
+
 				
 			]
 		}
