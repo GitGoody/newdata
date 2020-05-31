@@ -31,28 +31,25 @@
 						}
 					}
 				},
-				{
-					"ComponentId": 2,
-					"ComponentType": "Chart",
-					"ComponentName": "MyChart",
-					"ComponentTitle": "my first component",
-					"PanelRow": 2,
-					"PanelColumn": 0,
-					"PanelSizeX": 4,
-					"PanelSizeY": 2,
-					"dataset": {
-						"primaryXAxis": {
-							"valueType": "Category"
-						},
-						"tooltip": {
-							"enable": true
-						},
-						"legendSettings": {
-							"visible": true,
-							"position": "top"
+				          {
+					      "ComponentId": "2",
+					      "ComponentName": "PieChart",
+					      "row": 0,
+					      "col": 0,
+					      "sizex": 2,
+					      "sizey": 2,
+					      "type": "",
+					      "xname": "",
+					      "yname": "",            
+					      "dataset":{
+						  "seriesData":  [
+						      { "x": "Jan", "y": 12, "text": "January" },
+						      { "x": "Feb", "y": 25, "text": "February" },
+						      { "x": "Mar", "y": 50, "text": "March" }
+						   ]
 						}
-					}
-				}
+
+					  },
 				
 			]
 		}
