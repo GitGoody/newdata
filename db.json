@@ -30,28 +30,6 @@
 							"position": "top"
 						}
 					}
-				},
-				{
-					"ComponentId": 3,
-					"ComponentType": "Chart",
-					"ComponentName": "MyChart",
-					"ComponentTitle": "my second chart",
-					"PanelRow": 2,
-					"PanelColumn": 0,
-					"PanelSizeX": 4,
-					"PanelSizeY": 2,
-					"dataset": {
-						"primaryXAxis": {
-							"valueType": "Category"
-						},
-						"tooltip": {
-							"enable": true
-						},
-						"legendSettings": {
-							"visible": true,
-							"position": "top"
-						}
-					}
 				}
 
 				
